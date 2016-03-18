@@ -1,0 +1,5 @@
+[15-Nov-2015 14:39:33 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/zakdominika/public_html/admin/index.php on line 5
+[15-Nov-2015 14:40:01 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/zakdominika/public_html/admin/index.php on line 5
+[15-Nov-2015 14:41:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/zakdominika/public_html/admin/index.php on line 5
+[15-Nov-2015 14:41:30 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/zakdominika/public_html/admin/index.php on line 5
+[15-Nov-2015 14:45:21 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/zakdominika/public_html/admin/index.php on line 5
